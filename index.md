@@ -4,7 +4,8 @@ title: Home
 ---
 
 
-<h1> EASTERN PLAYGROUNDS FUNDRAISER / WHAT YOUR DONATIONS WILL BE USED FOR </h1>
+<h1> EASTERN PLAYGROUNDS FUNDRAISER / </h1>
+<h1> WHAT YOUR DONATIONS WILL BE USED FOR </h1>
 
 We are fundraising for ourselves (Eastern Playgrounds) and housing support for trans women in Yogyakarta who are facing evictions from their own neighbourhoods.
 
@@ -18,9 +19,11 @@ With the rise of transphobia and homophobia enabled by the state, trans women in
 
 The lives and safety of LGBTQI folks, especially trans women, in Indonesia is increasingly under threat. Fuelled by anti-trans regulation and rhetoric by the government, the rising violence and escalating persecution against the LGBTQI community is partially due to a new presidential regulation identifying LGBTQ culture as a national threat. Please support and stand in solidarity with our fellow queer asian folks by donating!
 
-<h2> Donation link: <a href="https://bunq.me/easternplaygroundsdonations">https://bunq.me/easternplaygroundsdonations</a></h2>
+<h2> Click <a href="https://bunq.me/easternplaygroundsdonations">here</a> for the donation link</h2>
 
+<div class="bankinfo">
 <h2> Bank information: </h2>
 <p>Name: Z.Y.L. Horsten</p>
 <p>IBAN: NL76 BUNQ 2207 5944 40</p>
 <p>BIC: BUNQNL2A</p>
+</div>
